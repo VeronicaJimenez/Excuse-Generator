@@ -1,1 +1,21 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.container-text-one {
+  background-color: white;
+  margin: auto;
+  margin-top: 12%;
+}
+.text-one {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: xx-large;
+  font-weight: bold;
+}
+.container-text-two {
+  background-color: white;
+  margin: auto;
+}
+#excuse {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: xx-large;
+  font-weight: bold;
+}
